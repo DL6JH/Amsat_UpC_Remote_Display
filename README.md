@@ -1,6 +1,6 @@
 /*
 * **Amsat-DL Upconverter Display for Windows, macOS and Linux**
-* ====================================================
+* =====================================================
 * Author: (c) **DL6JH**
 *
 *   This program is free software; you can redistribute it and/or modify
