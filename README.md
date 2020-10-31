@@ -1,8 +1,7 @@
-# Amsat_UpC_Remote_Display
-Amsat-DL UpConverter6W Remote Display for Windows, macOS, Linux and Raspberry PI
 /*
-* 
-* Author: (c) DL6JH
+* **Amsat-DL Upconverter Display for Windows, macOS and Linux**
+* ====================================================
+* Author: (c) **DL6JH**
 *
 *   This program is free software; you can redistribute it and/or modify
 *   it under the terms of the GNU General Public License as published by
@@ -20,19 +19,19 @@ Amsat-DL UpConverter6W Remote Display for Windows, macOS, Linux and Raspberry PI
 * 
 */
 
-Function
+## Function
 
 Show information of the Amsat-DL UpConverter in a window running on Windows, macOS, Linux or Raspberry Pi.
 
-Software Requirements
+## Software Requirements
 
-Windows
+**Windows**
 32-bit and 64-bit versions of Windows are supported.
 Windows 10
 Windows 8.1
 Windows 7 SP11
 
-macOS
+**macOS**
 macOS Catalina 10.15.x
 macOS Mojave 10.14.x
 macOS High Sierra 10.13.x
@@ -40,7 +39,7 @@ macOS Sierra 10.12.x
 OS X El Capitan 10.11.x
 OS X Yosemite 10.10.5
 
-Linux
+**Linux**
 32-bit and 64-bit versions of Linux are supported.
 Linux Mint 16 or later
 CentOS 7.0 or later
@@ -49,26 +48,30 @@ Debian 6.0 or later
 OpenSUSE 11.3 or later
 Fedora 13 Desktop or later
 
-Raspberry PI
+**Raspberry PI**
 Pi 2, 3 and 4 running:
 Raspbian Jessie
 Raspbian Jessie with Pixel
 Raspbian Stretch
 libunwind8 library
 
-Hardware Requirements
+## Hardware Requirements
 
-Use a Serial/USB converter with 3.3V level. Attention: Do not use a normal RS232 to USB converter, it will not work.
+Use a Serial/USB converter with 3.3V level. A cheap CP210x Chip will do the job. 
+9600 Baud and 8N1 is used by the UpConverter.
+*Note: Do not use a normal RS232 to USB adapter, it will not work.*
 
-Supported Board
+## Supported Board
 Amsat-DL UpConverter6W, HW:V4.2 or V4.3. Other board versions may also work, but are not tested.
 
-Software installation
+## Software installation
 
-There is no need to install the software. Copy the files incl, all subfolders to a folder of your choice („programs“ e.g.) and run the executable.
+There is no need to install the software. Unzip the file and all its subdirecories to a folder of your choice (e.g. „programs“) and run the executable.
+Please don't touch the structure of the subdirectories and files, take it as it is. Of course you may define an Alias of the executable as you like.
+On exit, size/position of the window and the actual settings are preserved.
 
-Program Manual
+## Program Manual...
 
-…doesn’t exist. The Program is self explanatory. Move the mouse cursor over the desired item, wait 1 second and read the tool tip.
+…doesn’t exist. The Program is self explanatory. Please move the mouse cursor over the desired item, wait 1 second and read the tool tip.
 
-73 de DL6JH
+	***73 de DL6JH***
