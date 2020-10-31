@@ -1,6 +1,6 @@
 /*
 * **Amsat-DL Upconverter Display for Windows, macOS and Linux**
-* =====================================================
+* ====================================================
 * Author: (c) **DL6JH**
 *
 *   This program is free software; you can redistribute it and/or modify
@@ -66,7 +66,7 @@ Amsat-DL UpConverter6W, HW:V4.2 or V4.3. Other board versions may also work, but
 
 ## Software installation
 
-There is no need to install the software. Unzip the file and all its subdirecories to a folder of your choice (e.g. „programs“) and run the executable.
+There is no need to install the software. Unzip the file and all its subdirecories to a folder of your choice (e.g. „programs“ or USB-stick) and run the executable.
 Please don't touch the structure of the subdirectories and files, take it as it is. Of course you may define an Alias of the executable as you like.
 On exit, size/position of the window and the actual settings are preserved.
 
@@ -74,4 +74,4 @@ On exit, size/position of the window and the actual settings are preserved.
 
 …doesn’t exist. The Program is self explanatory. Please move the mouse cursor over the desired item, wait 1 second and read the tool tip.
 
-	***73 de DL6JH***
+*73 de DL6JH*
