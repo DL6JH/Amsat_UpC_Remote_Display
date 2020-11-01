@@ -74,4 +74,7 @@ On exit, size/position of the window and the actual settings are preserved.
 
 …doesn’t exist. The Program is self explanatory. Please move the mouse cursor over the desired item, wait 1 second and read the tool tip.
 
-*73 de DL6JH*
+*73 de DL6JH*<br>
+
+![UpC](/UPC_mac.png "UpC")<br>
+
