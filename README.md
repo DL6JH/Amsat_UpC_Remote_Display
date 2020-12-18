@@ -1,5 +1,7 @@
 /*<br>
 * **Amsat-DL Upconverter Display for Windows, macOS and Linux**<br>
+* --- Discontinued ! ---
+* Please use **Amsat Up -and DownConverter for Windows, macOS, Linux and RaspberryPi**<br>
 * ====================================================<br>
 * Author: (c) **DL6JH**<br>
 *<br>
