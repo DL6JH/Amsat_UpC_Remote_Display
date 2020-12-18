@@ -1,7 +1,8 @@
 /*<br>
 * **Amsat-DL Upconverter Display for Windows, macOS and Linux**<br>
 * --- Discontinued ! ---
-* Please use **Amsat-DL UpDownC display**<br>
+* Please use **Amsat-DL UpDownC Display**<br>
+* Link: https://github.com/DL6JH/Amsat-DL-UpDownC-Display
 * ====================================================<br>
 * Author: (c) **DL6JH**<br>
 *<br>
